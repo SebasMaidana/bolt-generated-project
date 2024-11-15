@@ -1,0 +1,14 @@
+{
+      "name": "intelligent-web-assistant-server",
+      "version": "1.0.0",
+      "description": "Backend for the Intelligent Web Assistant",
+      "main": "index.js",
+      "scripts": {
+        "start": "node index.js"
+      },
+      "dependencies": {
+        "express": "^4.17.1",
+        "cors": "^2.8.5",
+        "dotenv": "^8.2.0"
+      }
+    }
